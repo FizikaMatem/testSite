@@ -16,6 +16,7 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: blue;
 }
 nav {
     width: 90%;
@@ -41,4 +42,5 @@ ul li a{
     text-decoration: none;
     font-size: 18px;
     color: black;
+    color: #fff;
 }
